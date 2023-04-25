@@ -15,4 +15,4 @@ README.md
 - 📈 As I continue to develop my skills, I am actively seeking opportunities to grow into a competent young professional in the tech industry.
 - 🌟 I am eager to connect with other professionals in the tech industry and explore how I can contribute to your team.
 - 📬 Please feel free to reach out to me to discuss any opportunities.
-- 🤔 I look forward to constructive criticism to grow into a tech professional.
+- 🤔 I am open to constructive criticism as i grow into a full stack devloper.
