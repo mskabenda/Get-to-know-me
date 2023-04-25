@@ -3,7 +3,7 @@ README.md
 
 ## **🔍 About Me**
 - 👩‍💻 I have a working understanding of Front-End development.
-- 🎓 I'm currently completing the Meta Front End, Back-End, and Database Engineering Professional Certificates on Coursera.
+- 🎓 I'm currently completing the Meta Front End and Back-End Professional Certificates on Coursera.
 - 🚀 My ultimate goal is to become an entry-level full stack developer.
 
 ## **💻 Tech and Impact**
